@@ -1,4 +1,3 @@
-@import url(https://fonts.googleapis.com/earlyaccess/cwtexkai.css);
 body{
 	background:url("bg.jpg");
 	margin:auto;
@@ -6,11 +5,11 @@ body{
 	background-repeat: repeat;
 	background-position: center;
 	text-align:center;
+	font-family:Microsoft JhengHei;
 }
 #content{
 	width:50%;
-	font-family:Microsoft JhengHei;
-	font-size: 30px;
+	font-size: 3px;
 	background-color: rgba(255, 255, 255, 0.7);
 	background-position: center;
 	overflow: hidden;
