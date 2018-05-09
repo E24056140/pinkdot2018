@@ -1,0 +1,39 @@
+body{
+	background:url("bg.jpg");
+	margin:auto;
+	background-size: cover ;
+	background-repeat: repeat;
+	background-position: center;
+	text-align:center;
+	
+}
+#content{
+	width:60%;
+	font-family:Microsoft JhengHei;
+	background-color: rgba(255, 255, 255, 0.7);
+	background-position: center;
+	overflow: hidden;
+	text-align:left;
+	margin:auto;
+	margin-top: 3vh;
+	margin-bottom: 3vh;
+	padding: 5px 50px;
+	
+}
+#pic{
+	width:50%;
+	display: block;
+    margin: auto;
+}
+#flag1{
+	width:40%;
+}
+#cont1{
+	width:58%;
+}
+#flag2{
+	width:40%;
+}
+#cont2{
+	width:58%;
+}
