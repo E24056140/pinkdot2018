@@ -33,3 +33,10 @@ body{
 	display: block;
     margin: auto;
 }
+#ngop{
+	position:fixed;
+	top:10vw;
+	width:15vw;
+	display: block;
+    margin: auto;
+}
