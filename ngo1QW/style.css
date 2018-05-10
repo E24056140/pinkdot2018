@@ -31,12 +31,14 @@ body{
 	top:10vw;
 	width:15vw;
 	display: block;
-    margin: auto;
+	margin: auto;
+	left:0vw;
 }
 #ngop{
 	position:fixed;
 	top:10vw;
 	width:15vw;
 	display: block;
-    margin: auto;
+	margin: auto;
+	right:0vw;
 }
