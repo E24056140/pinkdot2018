@@ -42,3 +42,19 @@ body{
 	margin: auto;
 	right:0vw;
 }
+#likea{
+	position:fixed;
+	top:26vw;
+	width:15vw;
+	display: block;
+	margin: auto;
+	left:0vw;
+}
+#likeb{
+	position:fixed;
+	top:26vw;
+	width:15vw;
+	display: block;
+	margin: auto;
+	right:0vw;
+}
