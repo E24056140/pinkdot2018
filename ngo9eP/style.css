@@ -20,22 +20,21 @@ body{
 	padding: 5px 50px;
 	
 }
-#pic{
-	width:50%;
+#pic1{
+	width:45%;
+	text-align:center;
 	display: block;
     margin: auto;
 }
-#flag1{
-	width:40%;
+#pic2{
+	width:45%;
+	text-align:center;
+	display: block;
+    margin: auto;
 }
-#cont1{
-	width:58%;
-}
-#flag2{
-	width:40%;
-}
-#cont2{
-	width:58%;
+#post{
+	width:100%;
+	height:956px;
 }
 #pink{
 	position:fixed;
@@ -45,9 +44,17 @@ body{
 	margin: auto;
 	left:0vw;
 }
-#ngop{
+#ngop1{
 	position:fixed;
-	top:10vw;
+	top:5vw;
+	width:15vw;
+	display: block;
+	margin: auto;
+	right:0vw;
+}
+#ngop2{
+	position:fixed;
+	top:25vw;
 	width:15vw;
 	display: block;
 	margin: auto;
@@ -63,7 +70,15 @@ body{
 }
 #likeb{
 	position:fixed;
-	top:26vw;
+	top:21vw;
+	width:15vw;
+	display: block;
+	margin: auto;
+	right:0vw;
+}
+#likec{
+	position:fixed;
+	top:41vw;
 	width:15vw;
 	display: block;
 	margin: auto;

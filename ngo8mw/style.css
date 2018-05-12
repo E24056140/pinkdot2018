@@ -20,6 +20,9 @@ body{
 	padding: 5px 50px;
 	
 }
+#post{
+	width:100%;
+}
 #pic{
 	width:50%;
 	text-align:center;
